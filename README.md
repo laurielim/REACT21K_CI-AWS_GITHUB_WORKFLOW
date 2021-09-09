@@ -1,12 +1,14 @@
-# null_or_empty
+# Github Workflow
 
+This repo contains class exercises carried out in the Continuous Integrations and AWS class as part of the Full Stack Web Development Program at [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/).
+
+## null_or_empty
 
 ![NodeCI](https://github.com/kalwar/null_or_empty/workflows/Node%20CI/badge.svg)
 
-
 A Node.js package that checks if a given string is null or empty.
 
-## Usage
+### Usage
 
 First, install the package using npm:
 

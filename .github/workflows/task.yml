@@ -1,0 +1,11 @@
+name: GH workflow
+
+on: push
+
+jobs:
+  simple-job:
+    runs-on: ubuntu-latest
+    env:
+      HELLO: world
+    steps:
+      - run: "echo hello:$HELLO"

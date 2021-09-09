@@ -2,9 +2,13 @@
 
 This repo contains class exercises carried out in the Continuous Integrations and AWS class as part of the Full Stack Web Development Program at [Business College Helsinki](https://en.bc.fi/qualifications/full-stack-web-developer-program/).
 
+## Task
+
+[![GH workflow](https://github.com/laurielim/REACT21K_CI-AWS_GITHUB_WORKFLOW/actions/workflows/task.yml/badge.svg)](https://github.com/laurielim/REACT21K_CI-AWS_GITHUB_WORKFLOW/actions/workflows/task.yml)
+
 ## null_or_empty
 
-![NodeCI](https://github.com/kalwar/null_or_empty/workflows/Node%20CI/badge.svg)
+[![Node CI](https://github.com/laurielim/REACT21K_CI-AWS_GITHUB_WORKFLOW/actions/workflows/main.yml/badge.svg)](https://github.com/laurielim/REACT21K_CI-AWS_GITHUB_WORKFLOW/actions/workflows/main.yml)
 
 A Node.js package that checks if a given string is null or empty.
 
